@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me
+B2B/B2C Product Marketer and hiking enthusiast.
 
-<!--
-**cheyproductguy/cheyproductguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently
+- 🏔️ Living my best life in the French Alps
+- 💼 Looking for my next PMM gig (starting September 2026)
+- 🚀 Building custom Claude skills help automate the job search (less screens, more summits)
 
-Here are some ideas to get you started:
+## Ask Me About
+- Go-to-market (GTM)
+- Positioning
+- Sales enablement
+- Full-funnel campaigns
+- Value proposition design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner](./banner.png)
